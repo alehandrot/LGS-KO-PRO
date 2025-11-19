@@ -1,0 +1,56 @@
+{
+    "ali tuncel": {
+        "tarih": "19.11.2025 17:46",
+        "gunluk_hedef": 100,
+        "dersler": {
+            "Matematik": {
+                "d": 15,
+                "y": 2,
+                "net": 14.333333333333334,
+                "hedef": 18.0,
+                "limit": 20,
+                "katsayi": 4
+            },
+            "Fen Bilimleri": {
+                "d": 19,
+                "y": 1,
+                "net": 18.666666666666668,
+                "hedef": 20.0,
+                "limit": 20,
+                "katsayi": 4
+            },
+            "Türkçe": {
+                "d": 15,
+                "y": 3,
+                "net": 14.0,
+                "hedef": 17.0,
+                "limit": 20,
+                "katsayi": 4
+            },
+            "İnkılap/Sosyal": {
+                "d": 5,
+                "y": 5,
+                "net": 3.333333333333333,
+                "hedef": 8.0,
+                "limit": 10,
+                "katsayi": 1
+            },
+            "İngilizce": {
+                "d": 9,
+                "y": 1,
+                "net": 8.666666666666666,
+                "hedef": 10.0,
+                "limit": 10,
+                "katsayi": 1
+            },
+            "Din Kültürü": {
+                "d": 9,
+                "y": 0,
+                "net": 9.0,
+                "hedef": 10.0,
+                "limit": 10,
+                "katsayi": 1
+            }
+        }
+    }
+}
